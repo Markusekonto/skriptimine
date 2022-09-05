@@ -1,0 +1,2 @@
+# skripimine
+Skriptimisõpe TITpe20
